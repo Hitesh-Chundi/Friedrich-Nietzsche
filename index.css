@@ -9,7 +9,10 @@ body {
     background-color: beige;
 }
 
-.title h1 {
+
+/*SECTION 1*/
+
+h1 {
     text-align: center;
     font-family: "Courier New", Courier, monospace;
     font-size: 36px;
@@ -39,6 +42,9 @@ hr {
     margin: auto;
 }
 
+
+/*SECTION 2*/
+
 h2 {
     text-align: center;
     font-size: 30px;
@@ -55,6 +61,9 @@ li {
     margin: auto;
     padding: 10px;
 }
+
+
+/*SECTION 3*/
 
 
 /*FLEX BOX begins*/
@@ -80,4 +89,19 @@ li {
     font-size: 18px;
     font-weight: 600;
     padding-bottom: 15px;
+}
+
+
+/*FOOTER*/
+
+.foot {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.foot p {
+    font-family: Arial, Helvetica, sans-serif;
 }
